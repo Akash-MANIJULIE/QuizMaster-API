@@ -1,2 +1,1 @@
-# QuizMaster-API
-Quiz management using Spring Boot
+# Quiz-Management-using-Spring boot-with-MySql-
